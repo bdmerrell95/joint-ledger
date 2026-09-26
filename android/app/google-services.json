@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "411028955617",
+    "project_id": "joint-ledger-6362c",
+    "storage_bucket": "joint-ledger-6362c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411028955617:android:f935fe66b0103388f0b2a0",
+        "android_client_info": {
+          "package_name": "com.jointledger.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6PzuoakEz3hxL3a3ii4r-mNPy8uqmJco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
