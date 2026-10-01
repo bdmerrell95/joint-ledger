@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">joint-ledger</string>
-    <string name="title_activity_main">joint-ledger</string>
+    <string name="app_name">SpendLink</string>
+    <string name="title_activity_main">SpendLink</string>
     <string name="package_name">com.jointledger.app</string>
     <string name="custom_url_scheme">com.jointledger.app</string>
     <string name="appwidget_text">EXAMPLE</string>

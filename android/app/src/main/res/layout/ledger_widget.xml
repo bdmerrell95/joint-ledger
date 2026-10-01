@@ -10,10 +10,10 @@
         android:id="@+id/widgetTitle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Joint Ledger"
+        android:text="Current Balance"
+        android:textAllCaps="true"
         android:textColor="#AAAAAA"
-        android:textSize="12sp"
-        android:textAllCaps="true" />
+        android:textSize="12sp" />
 
     <TextView
         android:id="@+id/balanceText"
